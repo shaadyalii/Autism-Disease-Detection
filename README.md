@@ -55,13 +55,9 @@ The dataset used in this project is the [Autism-Screening Data Set](https://www.
 
   v. matplotlib
   
-  VI.  seaborn
+  VI. scikit-learn
   
-  VII. scikit-learn
 
-  VIII. tkinter
-
-  
 
 
 # Remarks
