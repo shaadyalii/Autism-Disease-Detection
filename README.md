@@ -1,8 +1,6 @@
-# Autism-Disease-Detiction
+# Autism-Disease-Detection
 Autism Disease Detection Project using Support Vector Machine (SVM) for Artificial Intelligence (2) [CS413P] at Faculty of Computers &amp; Information Sciences, Mansoura University
 
-# Parkinson's-Disease-Detection
-Parkinson's Disease Prediction Project using Support Vector Machine (SVM) for Artificial Intelligence (2) [CS413P] at Faculty of Computers &amp; Information Sciences, Mansoura University
 
 # Table of Content
 
@@ -47,7 +45,7 @@ The dataset used in this project is the [Autism-Screening Data Set](https://www.
 
 # Tools
 
-  I.	visual studio(IDE)
+  I.	VScode(IDE)
   
   II.	Python 3.x
   
@@ -68,7 +66,7 @@ The dataset used in this project is the [Autism-Screening Data Set](https://www.
 
 # Remarks
 
-* This Python program was run and tested in Jupyter Notebook.
+* This Python program was run and tested in VScode.
   
 * Ensure the required libraries are installed by running:
   
@@ -86,9 +84,9 @@ To begin utilizing this application, follow these steps:
 2. Navigate to the cloned repository:
 
    ```bash
-   cd Parkinsons-Disease-Detection
+   cd Autism-Disease-Detection
 
-3. Run the visual studio Notebook:
+3. Run the VScode:
 
    ```bash
-   Full_Parkinsons.ipynb
+   astumm.py
