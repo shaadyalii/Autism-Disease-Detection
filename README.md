@@ -79,7 +79,7 @@ To begin utilizing this application, follow these steps:
 1. Clone this repository:
    
    ```bash
-   git clone https://github.com/GOAT-AK/Parkinsons-Disease-Detection
+   git clone https://github.com/shaadyalii/Autism-Disease-Detection
 
 2. Navigate to the cloned repository:
 
