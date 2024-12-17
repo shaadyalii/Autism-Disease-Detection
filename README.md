@@ -67,7 +67,7 @@ The dataset used in this project is the [Autism-Screening Data Set](https://www.
 * Ensure the required libraries are installed by running:
   
   ```bash
-  pip install numpy pandas scikit-learn  matplotlib  seaborn   
+  pip install numpy pandas scikit-learn  matplotlib 
 # Usage
 
 To begin utilizing this application, follow these steps:
@@ -82,7 +82,7 @@ To begin utilizing this application, follow these steps:
    ```bash
    cd Autism-Disease-Detection
 
-3. Run the VScode:
+3. Run the Script:
 
    ```bash
    astumm.py
